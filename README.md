@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teoaks
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning JavaScript starting from scratch. I am also learning on how github,visual studio code,cmder and other works.
+- 🌱 I’m currently learning HTML from scratch using freeCodeCamp.org.
 - 💞️ I’m looking to collaborate on the projects in the future where I can implement my new knowledge.
 - 📫 You can reach me on my email address: ikanovic.teodor@gmail.com
 - Any suggestiongs about the courses and lectures I should use on my path to getting as much knowledge as possible about this interesting field called coding.
